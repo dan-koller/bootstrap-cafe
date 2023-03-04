@@ -2,14 +2,14 @@
 
 This is a small project representing a cafe's website built with Bootstrap. It features a responsive design and a few custom components. It is meant to be a reference for anyone who wants to learn how to use Bootstrap.
 
-You can see the live version of this project here.
+You can see the live version of this project [here](https://dan-koller.github.io/cafe/).
 
 ## Getting Started
 
 To get started, you can simply clone this repository:
 
 ```
-git clone
+git clone https://github.com/dan-koller/cafe.git
 ```
 
 and open the `index.html` file in your browser.
